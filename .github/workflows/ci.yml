@@ -1,4 +1,4 @@
-node: Node JS CI
+name: Node JS CI
 on:
   push:
     branches: ["main"]
